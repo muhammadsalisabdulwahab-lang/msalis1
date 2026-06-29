@@ -1,13 +1,6 @@
-# msalis1
-welcome to my github repository!
-##about me
-i am learning programming and using Github to store my projects.
+# Hi, i'm Mohammed salis Abdul Wahab
+Welcome to my Github Profile!
 
-##project
-learning Python
-learning Git and Github
-Future web development project
+#About Me
 
-##Goals
-improve my programming skills
-Build useful software Contribute to open sources projects.
+I am a student learning python,Gits and Github
